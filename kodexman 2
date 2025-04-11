@@ -1,0 +1,204 @@
+body {
+  font-family: 'Vazirmatn', sans-serif;
+  ...
+}<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>خانه | ریکی و شمع‌تراپی</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<a href="https://instagram.com/reiki_clinic" target="_blank" class="floating-insta">@reiki_clinic<body>
+  <header>
+    <h1>درمان با انرژی ریکی، شمع‌تراپی و تاروت</h1>
+    <nav>
+      <a href="index.html">خانه</a>
+      <a href="about.html">درباره</a>
+      <a href="contact.html">تماس با ما</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="intro">
+      <h2>آرامش درونی با انرژی</h2>
+      <p>با ریکی، شمع‌تراپی و تاروت به تعادل ذهن و روح برسید.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>ارتباط از طریق <a href="https://instagram.com/reiki_clinic" target="_blank">اینستاگرام</a></p>
+  </footer>
+</body>
+</html><!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>درباره ما</title>
+  <link rel="stylesheet" href="style.css">body {
+  background: linear-gradient(to bottom, #fff9f5, #fceae8);
+}
+</head>
+<body>
+  <header>
+    <h1>درباره خدمات</h1>
+    <nav>
+      <a href="index.html">خانه</a>
+      <a href="about.html">درباره</a>
+      <a href="contact.html">تماس با ما</a>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <h2>ریکی</h2>
+      <p>ریکی یک روش درمانی انرژی‌محور است که به بازگرداندن تعادل درونی کمک می‌کند.</p>
+
+      <h2>شمع‌تراپی</h2>
+      <p>با استفاده از انرژی شمع‌ها برای پاکسازی ذهن و فضا.</p>
+
+      <h2>تاروت</h2>
+      <p>کارت‌های تاروت به ما کمک می‌کنند مسیر درونی خود را بهتر بشناسیم.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>ارتباط از طریق <a href="https://instagram.com/YourInstagram" target="_blank">اینستاگرام</a></p>
+  </footer>
+</body>
+</html><!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>تماس با ما</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>تماس با ما</h1>
+    <nav>
+      <a href="index.html">خانه</a>
+      <a href="about.html">درباره</a>
+      <a href="contact.html">تماس با ما</a>
+    </nav>
+  </header>
+
+  <main>
+    <section><h2>ریکی</h2>
+<img src="images/reiki.png" alt="آیکون ریکی" width="60">
+<p>ریکی یک روش درمانی انرژی‌محور است...</p>
+
+<h2>شمع‌تراپی</h2>
+<img src="images/candle.png" alt="آیکون شمع‌تراپی" width="60">
+<p>با استفاده از انرژی شمع‌ها...</p>
+
+<h2>تاروت</h2>
+<img src="images/tarot.png" alt="آیکون تاروت" width="60">
+<p>کارت‌های تاروت به ما کمک می‌کنند...</p>
+      <p>برای هماهنگی یا سوالات بیشتر، لطفاً از طریق اینستاگرام با ما در ارتباط باشید:</p>
+      <a class="insta-button" href="https://instagram.com/YourInstagram" target="_blank">رفتن به اینستاگرام</a>
+    </section>
+  </main>
+
+  <footer>
+    <p>تمامی حقوق محفوظ است.</p>
+  </footer>
+</body>
+</html>body {
+  font-family: sans-serif;
+  background-color: #f9f4f0;
+  margin: 0;
+  padding: 0;
+  color: #333;
+  direction: rtl;
+}
+
+header {
+  background-color: #eac7b0;
+  padding: 20px;
+  text-align: center;
+}
+
+nav {
+  margin-top: 10px;
+}
+
+nav a {
+  margin: 0 10px;
+  text-decoration: none;
+  color: #5c3d2e;
+  font-weight: bold;
+}
+
+main {
+  padding: 20px;
+}
+
+footer {
+  background-color: #eac7b0;
+  text-align: center;
+  padding: 10px;
+  position: relative;
+  bottom: 0;
+}
+
+.insta-button {.floating-insta {
+  position: fixed;
+  bottom: 20px;
+  left: 20px;
+  background: linear-gradient(to right, #e1306c, #fd1d1d);
+  color: white;
+  padding: 12px 18px;
+  border-radius: 30px;
+  text-decoration: none;
+  font-weight: bold;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+  z-index: 999;
+  transition: transform 0.3s ease;
+}
+
+.floating-insta:hover {
+  transform: scale(1.1);
+}
+  display: inline-block;
+  background-color: #d06c5e;
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 8px;
+  margin-top: 20px;
+}
+
+/* واکنش‌گرا برای موبایل و تبلت */
+@media (max-width: 768px) {
+  header, main, footer {
+    padding: 10px;
+  }
+
+  nav a {
+    display: block;
+    margin: 5px 0;
+  }
+}<link href="https://fonts.googleapis.com/css2?family=Vazirmatn&display=swap" rel="stylesheet">header {
+  background: linear-gradient(to right, #fceae8, #ffe5d9);
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+nav a:hover {
+  color: #8c2f39;
+  transition: color 0.3s;
+}
+
+section {
+  background-color: #fff;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+
+h2 {
+  color: #a0522d;
+}
